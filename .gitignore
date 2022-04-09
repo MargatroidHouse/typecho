@@ -27,5 +27,13 @@ config.rb
 /config.inc.php
 /usr/uploads/
 /usr/*.db
+/usr/plugins/
 !/usr/plugins/HelloWorld
+/usr/themes/
 !/usr/themes/default
+.htaccess
+.user.ini
+.well-known/
+404.html
+index.html
+pma/
