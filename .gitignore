@@ -41,3 +41,9 @@ node_modules/
 404.html
 index.html
 pma/
+.bash_history
+.gitconfig
+.viminfo
+.wget-hsts
+BK/
+KamiAPI/
