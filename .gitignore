@@ -39,5 +39,4 @@ node_modules/
 .user.ini
 .well-known/
 404.html
-index.html
-pma/
+index.htmlpma/

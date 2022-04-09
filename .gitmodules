@@ -55,3 +55,6 @@
 [submodule "usr/themes/Typecho-theme-amaze"]
 	path = usr/themes/Typecho-theme-amaze
 	url = git@github.com:Whuihuan/typecho-theme-amaze.git
+[submodule "usr/plugins/TeStore"]
+	path = usr/plugins/TeStore
+	url = git@github.com:MargatroidHouse/alicem-typecho-plugin-TeStore.git
