@@ -27,6 +27,7 @@ include 'header.php';
                 <button type="submit" class="btn btn-l w-100 primary"><?php _e('登录'); ?></button>
                 <input type="hidden" name="referer" value="<?php echo htmlspecialchars($request->get('referer') ?? ''); ?>" />
             </p>
+            <?php TeConnect_Plugin::show() ?>
             <p>
                 <label for="remember">
                     <input<?php if(\Typecho\Cookie::get('__typecho_remember_remember')): ?> checked<?php endif; ?> type="checkbox" name="remember" class="checkbox" value="1" id="remember" /> <?php _e('下次自动登录'); ?>
