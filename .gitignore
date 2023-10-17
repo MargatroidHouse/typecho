@@ -40,3 +40,7 @@ node_modules/
 .well-known/
 404.html
 index.html
+.bash_history
+.ssh/
+.gitconfig
+.lesshst
